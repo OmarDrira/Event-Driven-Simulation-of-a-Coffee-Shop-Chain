@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arrival
+comment0.text=\n\ Arrival\ class\ contains\ the\ relevant\ information\ to\ an\ arrival\ event\n\n\ @author\ Omar\ Drira\n\ @version\ 04/04/20\n
+comment1.params=
+comment1.target=Arrival()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Arrival\n
+comment2.params=c\ time
+comment2.target=Arrival(Customer,\ int)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ Arrival\n
+comment3.params=
+comment3.target=Departure\ process()
+comment3.text=\n\ process\ method\ processes\ an\ arrival\ and\ returns\ a\ departure\n\ @return\ a\ departure\ event\ resulting\ from\ the\ processing\ of\ the\ arrival\ event\n
+numComments=4

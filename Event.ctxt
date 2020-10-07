@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Abstract\ Event\ class\ is\ an\ abstract\ class\ for\ an\ event\n\n\ @author\ Omar\ Drira\n\ @version\ 04/04/20\n
+comment1.params=
+comment1.target=Event\ process()
+comment1.text=\n\ process\ method\ processes\ an\ event\n
+comment2.params=e
+comment2.target=int\ compareTo(Event)
+comment2.text=\n\ compareTo\ method\ compares\ two\ events\ based\ on\ their\ time\n\ @param\ event\ to\ be\ compared\ to\n\ @return\ an\ integer\ expressing\ the\ result\ of\ the\ comparison\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\n\ Simulation\ class\ runs\ the\ simulation\ of\ the\ coffee\ shop\n\n\ @author\ \ Omar\ Drira\n\ @version\ 04/04/2020\n
+comment1.params=s
+comment1.target=Simulation(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Simulation,\ initializes\ all\ the\ variables\ and\ data\ structures\n\ @param\ the\ number\ of\ cashiers\n
+comment2.params=
+comment2.target=void\ readFile()
+comment2.text=\n\ readFile\ method\ reads\ the\ input\ file\ and\ generates\ a\ priorityqueue\ of\ arrival\ events\n
+comment3.params=
+comment3.target=void\ runSimulation()
+comment3.text=\n\ runSimulation\ method\ runs\ the\ simulation\ and\ keeps\ track\ of\ statistics\n
+comment4.params=
+comment4.target=boolean\ isFreeCashier()
+comment4.text=\n\ isFreeCashier\ methods\ determines\ if\ there\ is\ at\ least\ one\ free\ cashier\n\ @return\ a\ boolean\ expressing\ if\ there\ is\ a\ free\ cashier\ or\ not\n
+comment5.params=
+comment5.target=Cashier\ freeCashier()
+comment5.text=\n\ freeCashier\ method\ returns\ a\ free\ cashier\ if\ there\ is\ one\ or\ null\ if\ there\ is\ none\n\ @return\ a\ free\ cashier\ if\ there\ is\ one\ or\ null\ if\ there\ is\ none\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ main\ method\ does\ the\ computation\ used\ in\ the\ analysis\ of\ the\ project\n\ @param\ String\ array\ of\ arguments\n
+numComments=7

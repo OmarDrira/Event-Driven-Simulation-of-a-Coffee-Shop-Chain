@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DepartureTest
+comment0.text=\n\ The\ test\ class\ DepartureTest.\n\n\ @author\ \ Omar\ Drira\n\ @version\ 04/20/20\n
+comment1.params=
+comment1.target=DepartureTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ DepartureTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testCompareTo()
+comment5.params=
+comment5.target=void\ testProcess()
+numComments=6

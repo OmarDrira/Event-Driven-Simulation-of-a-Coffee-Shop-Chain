@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cashier
+comment0.text=\n\ Cashier\ class\ contains\ cashier\ information\n\n\ @author\ Omar\ Drira\n\ @version\ 04/04/20\n
+comment1.params=
+comment1.target=Cashier()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cashier\n
+comment2.params=t1\ t2\ p1\ p2
+comment2.target=Cashier\ assign(int,\ int,\ float,\ float)
+comment2.text=\n\ assign\ method\ is\ called\ everytime\ a\ customer\ is\ assigned\ to\ a\ cashier\ and\ generates\ a\ random\ serveTime\ and\ a\ random\ profit\n\ @param\ lower\ bound\ for\ the\ serving\ time\n\ @param\ upper\ bound\ for\ the\ serving\ time\n\ @param\ lower\ bound\ for\ the\ profit\n\ @param\ upper\ bound\ for\ the\ profit\n
+comment3.params=
+comment3.target=void\ notAvailable()
+comment3.text=\n\ notAvailable\ method\ changes\ the\ value\ of\ the\ boolean\ variable\ available\ to\ false\n
+comment4.params=
+comment4.target=boolean\ getAvailable()
+comment4.text=\n\ getAvailable\ returns\ a\ boolean\ describing\ if\ the\ cashier\ is\ available\ or\ not\n\ @return\ a\ boolean\ describing\ if\ the\ cashier\ is\ available\ or\ not\n
+numComments=5
